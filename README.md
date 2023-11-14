@@ -1,4 +1,3 @@
-# Intro_Ai_Final_Project
-Intro to Artificial Intelligence Final Project 
+# image_classification_algorithms 
 <br>
 Implementation of 3 classification algorithms in python from scratch.
